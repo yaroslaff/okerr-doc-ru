@@ -49,9 +49,9 @@ exclude_patterns = []
 
 #html_theme = 'alabaster'
 #html_theme = 'nervproject'
-#html_theme = 'press'
+html_theme = 'press'
 #html_theme = 'flask'
-html_theme = 'pyramid'
+#html_theme = 'pyramid'
 #html_theme = 'sphinx_celery'
 
 
