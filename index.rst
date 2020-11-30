@@ -9,7 +9,7 @@
 или просто напишите мне (yaroslaff) на gmail.
 
 Okerr - проект с открытым кодом, и документация к okerr - тоже. Вы можете свободно редактировать эту документацию
-как публичный проект `okerr-doc-ru <github.com/yaroslaff/okerr-doc-ru>`_ на github. 
+как публичный проект `okerr-doc-ru <https://github.com/yaroslaff/okerr-doc-ru>`_ на github. 
 
 Руководство пользователя Okerr
 ================================
