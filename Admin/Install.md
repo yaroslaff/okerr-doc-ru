@@ -18,7 +18,7 @@ lxc-attach -n okerr
 
 # VM
 apt install git python3
-git clone https://gitlab.com/yaroslaff/okerr-dev.git /opt/okerr
+git clone https://github.com/yaroslaff/okerr-dev.git /opt/okerr
 ~~~
 
 ### Шаг 2b (альтернативный путь (исходные коды okerr на хостовой машине). НЕ делайте так, если вам это не нужно.)
