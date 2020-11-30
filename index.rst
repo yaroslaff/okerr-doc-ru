@@ -1,12 +1,18 @@
 
-Руководство пользователя Okerr
-================================
-
 `Okerr <https://okerr.com/>`_ - легковесное ПО и сервис для мониторинга для малых и средних проектов.
 
 
 Это документация на русском языке. (We have `English documentation <https://okerr.readthedocs.io/en/latest/>`_ as well).
 
+Если есть вопросы - спросите нас через `freshdesk <https://okerr.freshdesk.com/support/home>`_ 
+или откройте `issue <https://github.com/yaroslaff/okerr-dev/issues>`_ на github, 
+или просто напишите мне (yaroslaff) на gmail.
+
+Okerr - проект с открытым кодом, и документация к okerr - тоже. Вы можете свободно редактировать эту документацию
+как публичный проект `okerr-doc-ru <github.com/yaroslaff/okerr-doc-ru>`_ на github. 
+
+Руководство пользователя Okerr
+================================
 
 .. toctree::
    :maxdepth: 1
