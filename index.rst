@@ -6,7 +6,7 @@
 
 Если есть вопросы - спросите нас через `freshdesk <https://okerr.freshdesk.com/support/home>`_ 
 или откройте `issue <https://github.com/yaroslaff/okerr-dev/issues>`_ на github, 
-или просто напишите мне (yaroslaff) на gmail.
+или просто напишите `мне лично <mailto:yaroslaff@gmail.com>`_.
 
 Okerr - проект с открытым кодом, и документация к okerr - тоже. Вы можете свободно редактировать эту документацию
 как публичный проект `okerr-doc-ru <https://github.com/yaroslaff/okerr-doc-ru>`_ на github. 
