@@ -1,6 +1,8 @@
 # okerr-doc-ru
 okerr documentation (russian)
 
+Published at: https://okerr.readthedocs.io/ru/latest/
+
 ## Other okerr resources
 - [Okerr main website](https://okerr.com/)
 - [Okerr-server source code repository](https://github.com/yaroslaff/okerr-dev/) 
